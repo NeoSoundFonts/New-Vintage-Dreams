@@ -3,3 +3,6 @@
 Starting Development:
 
 - Added Saw Wave.
+- Added Square Wave.
+- Added Sine Ocarina.
+- Added Chorale.
