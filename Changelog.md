@@ -6,3 +6,4 @@ Starting Development:
 - Added Square Wave.
 - Added Sine Ocarina.
 - Added Chorale.
+- Added Chorale 2.
