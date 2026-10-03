@@ -1,2 +1,3 @@
-# NeoSF2-Sounds-Template
-NeoSF2音色库模板。Template of NeoSF2 Sounds.
+# New-Vintage-Dreams
+使用单周期波表制作的音色库<br>
+A soundbank that made with single-cycle wavetables.
