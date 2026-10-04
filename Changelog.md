@@ -3,6 +3,7 @@
 - Added Saw Bass 1.
 - Added Saw Bass 2.
 - Tweaked some patches.
+- Added Piano 1.
 
 # 2026-10-03
 
